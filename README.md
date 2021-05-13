@@ -1,0 +1,3 @@
+- 👋 Oi sou o envy!
+- 👀 Gosto muito de jogar.
+- 🌱 Estou aprendendo java!
