@@ -1,3 +1,1 @@
-- 👋 Oi sou o envy!
-- 👀 Gosto muito de jogar.
-- 🌱 Estou aprendendo java e C++!
+minha vida é uma merda e eu quero me matar
